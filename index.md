@@ -1,2 +1,13 @@
 # Hello!
+
+## About Me
 My name is Hans, a third year student studying at UVA. I double major in Math and Econ. This is my personal website.
+
+## Things I do
+- Making Personal Website (this)
+- Research Assistant @ UVA
+- 3D modeling & commission business
+- Teaching & Making Origami 
+
+## My linkedIn
+Click this! (in the works)
