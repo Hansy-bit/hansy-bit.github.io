@@ -1,2 +1,7 @@
 theme: minima
 layout: home
+
+header_pages:
+- About.md
+- 3D.md
+  
