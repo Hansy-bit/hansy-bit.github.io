@@ -3,7 +3,7 @@ title: About
 ---
 
 ## About Me
-My name is Hans, a third year student studying at UVA. I double major in Math and Econ. This is my personal website.
+My name is xxx, a third year student studying at xxx. I double major in Math and Econ. This is my personal website.
 
 ## Things I do
 - Making Personal Website (this)
