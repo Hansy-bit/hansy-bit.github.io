@@ -1,6 +1,3 @@
 layout: home
-
-header_pages:
-  - index.md
-  - 3D.md
+theme: minima
   
