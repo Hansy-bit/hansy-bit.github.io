@@ -13,4 +13,4 @@ My name is xxx, a third year student studying at xxx. I double major in Math and
 - Teaching & Making Origami 
 
 ## My linkedIn
-[Check out my LinkedIn!](www.linkedin.com/in/hans-yang-494195253)
+[Check out my LinkedIn!](https://www.linkedin.com/in/hans-yang-494195253)
