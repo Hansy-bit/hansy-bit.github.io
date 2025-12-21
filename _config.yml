@@ -2,6 +2,6 @@ theme: minima
 layout: home
 
 header_pages:
-- index.md
-- 3D.md
+  - index.md
+  - 3D.md
   
