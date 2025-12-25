@@ -14,3 +14,12 @@ My name is xxx, a third year student studying at xxx. I double major in Math and
 
 ## My linkedIn
 [Check out my LinkedIn!](https://www.linkedin.com/in/hans-yang-494195253)
+
+## My Resume
+PDF placeholder
+
+## Experiences 
+Placeholder
+
+## Skills
+Placeholder
