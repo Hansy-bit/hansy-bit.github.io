@@ -17,9 +17,9 @@ My name is Hans, a third year student at UVA studying Economics and Math. This i
 [Check out my LinkedIn!](https://www.linkedin.com/in/hans-yang-494195253)
 
 ## My Resume
-[Hans Yang Resume Jun 2026.pdf](assets/Hans Yang Resume Jun 2026.pdf)
+[Hans Yang Resume Jun 2026.pdf](assets/Resume/Hans Yang Resume Jun 2026.pdf)
 
-<iframe src="assets/Hans Yang Resume Jun 2026.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="assets/Resume/Hans Yang Resume Jun 2026.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 <!--  ## Other Skills?  -->
 

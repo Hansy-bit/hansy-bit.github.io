@@ -2,7 +2,7 @@
 title: Origami
 layout: page
 ---
-Origami is the art of holding a single (1) piece of paper. Here are some of my work.
+Origami is the art of folding a single (1) piece of paper. Here are some of my work.
 
 <style>
 .origami-gallery {
