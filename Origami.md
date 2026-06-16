@@ -41,7 +41,7 @@ Origami is the art of folding a single (1) piece of paper. Here are some of my w
 
 <div class="origami-gallery">
   <div class="origami-item">
-    <img src="assets/Origami/Lady in rain.jpg" alt="Lady in rain">
+    <img src="assets/Origami/Lady%20in%20rain.jpg" alt="Lady in rain">
     <div class="origami-caption">★★★★★★ Super long project with very tedious crease pattern but the payoff was worth it. Beautiful design and the umbrella was very creative. Tracing the crease pattern took around 5 hours at least, folding more than 10. Holds a special place in my heart.</div>
   </div>
   <div class="origami-item">
@@ -49,7 +49,7 @@ Origami is the art of folding a single (1) piece of paper. Here are some of my w
     <div class="origami-caption"> ★★★★★ If I recall correctly this one wasn't box pleated, yet the design nicely captured various features for both the Nazgul and the horse with a single sheet of paper. Details on the claw, mane, and the structure of the hood is very nice.</div>
   </div>
   <div class="origami-item">
-    <img src="assets/Origami/Anime Girl.jpeg" alt="Anime Girl">
+    <img src="assets/Origami/Anime%20Girl.jpeg" alt="Anime Girl">
     <div class="origami-caption">★★★★★ A fascinating design, both the humanoid shape and the garments are captured very well. Using foil paper gave it a glow that wasn't really captured in the image</div>
   </div>
   <div class="origami-item">
@@ -65,7 +65,7 @@ Origami is the art of folding a single (1) piece of paper. Here are some of my w
     <div class="origami-caption">★★★★☆ Folded this one with a friend. Unexpectedly well designed with many satisfying steps, but also a few fustrating ones.</div>
   </div>
   <div class="origami-item">
-    <img src="assets/Origami/Pianist and Violinist.jpg" alt="Pianist and Violinist">
+    <img src="assets/Origami/Pianist%20and%20Violinist.jpg" alt="Pianist and Violinist">
     <div class="origami-caption"> ★★★★★ Simple, satisfying, great looking.</div>
   </div>
 </div>
