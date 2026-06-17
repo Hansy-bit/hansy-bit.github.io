@@ -26,8 +26,11 @@ My name is Hans, a third year student at UVA studying Economics and Math. This i
 <!-- 
 Thing  I want to work on: 
 
-Design a library of origami portfolio
-Interactable element - hover open image for comments 
+Starting local html:
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+bundle exec jekyll serve --livereload
+
+Add names for origamis
 
 Add portfolio of 3D designs - game image on the left, work on the right
 Click on the image for more gallery/work process explanation
