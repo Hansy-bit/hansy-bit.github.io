@@ -1,9 +1,7 @@
 ---
-title: About
+title: About Me
 layout: page
 ---
-
-## About Me
 My name is Hans, a third year student at UVA studying Economics and Math. This is my personal website.
 
 ## Things I do
