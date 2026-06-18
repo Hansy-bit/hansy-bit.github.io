@@ -1,3 +1,8 @@
 layout: home
 theme: minima
-  
+
+header_pages:
+  - index.md
+  - Econ.md
+  - Origami.md
+  - 3D.md
